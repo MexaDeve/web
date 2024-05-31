@@ -1,0 +1,3 @@
+<?php
+  DirectoryIndex InicioSesion.php
+?>
